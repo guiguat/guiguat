@@ -5,6 +5,5 @@
 - 🤯 Interested in: React, Redux, Angular, Nodejs, JavaScript, TypeScript, Android, Kotlin...
 - 📫 How to reach me: [Instagram](https://www.instagram.com/gguatbjj/), [Email](mailto:guaturadzn@gmail.com), [Linkedin](https://www.linkedin.com/in/guilhermeguatura/)
 - ⚡ Fun fact: I'm a Brazilian Jiu-Jitsu fighter
-- 🧉 Mate lover
 - 🇧🇷 Born in Campinas - SP, Brazil
 - 🇨🇳 Chinese Mandarin student
