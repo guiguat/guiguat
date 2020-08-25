@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working on: [Proffy](https://github.com/guiguat/proffy)
 
-- 🌱 I’m currently learning: **Java, Angular, Redux,.Net Core...**
+- 🌱 I’m currently learning: **Java, Angular, Redux**
 
 - 📫 How to reach me: **guaturadzn@gmail.com**
 
